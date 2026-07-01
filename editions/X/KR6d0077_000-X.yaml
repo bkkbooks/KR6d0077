@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0077/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經通義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X31/X31n0611.xml
+    old_id: X31n0611
+hash: sha256:7cc633195d70eafcf77e6d9681263eb5ab1c7c7eb11285569c64687117557ea0
